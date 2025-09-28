@@ -30,3 +30,14 @@
 ## Notes
 . Make sure Blender has internet access
 
+
+## How to Get a Discord Webhook URL
+
+1. Open your Discord server settings.
+2. Go to Integrations → Webhooks.
+3. Click New Webhook.
+4. Give it a name (e.g., Blender Render Bot) and choose a channel where messages will be sent.
+5. Click Copy Webhook URL.
+6. Paste this URL into the add-on’s settings inside Blender.
+That’s it! Every time your render is starting or finish, a message will be sent to that Discord channel.
+
